@@ -76,6 +76,7 @@ while (juego activo) {
     Render();   // Dibujar a la velocidad que el hardware permita (FPS variable)
 }
 ```
-## Fuentes u Referencias :
+## Fuentes u Contenido de Referencias :
 -https://java-design-patterns.com/es/patterns/game-loop/
+--------------------------------------------------------
 -https://www.youtube.com/watch?v=AuE5buBcBBE
